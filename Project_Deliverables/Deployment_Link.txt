@@ -1,3 +1,0 @@
-Live Application URL: TBD
-Backend API URL: TBD
-GitHub Repository Link: https://github.com/sai-0309/SmartBridge
