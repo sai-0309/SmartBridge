@@ -108,12 +108,12 @@ See the `Project_Deliverables/Screenshots` folder for visual references:
 
 ## Deployment Link Section
 The live links to the application are documented in `Project_Deliverables/Deployment_Link.txt`.
-- **Live Application URL:** [INSERT_YOUR_DEPLOYMENT_LINK]
-- **Backend API URL:** [INSERT_BACKEND_LINK]
+- **Live Application URL:** TBD (Pending Deployment)
+- **Backend API URL:** TBD (Pending Deployment)
 
 ## GitHub Repository Link
 You can review the full source code and commit history here:
-**[INSERT_YOUR_GITHUB_REPOSITORY_LINK]**
+**[https://github.com/sai-0309/SmartBridge](https://github.com/sai-0309/SmartBridge)**
 
 ## Conclusion
 ShopSmart successfully demonstrates a scalable, secure, and fully operational modern monolithic web application utilizing the MEAN/MERN architectural patterns. The integration of role-based routing, strict security headers, and an elegant UI successfully meets the requirements of a production-ready e-commerce platform.
