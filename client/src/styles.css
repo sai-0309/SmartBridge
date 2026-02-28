@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+
+:root {
+  --fk-blue: #2874f0;
+  --fk-bg: #f1f3f6;
+  --fk-text: #212121;
+  --fk-gray: #878787;
+  --fk-border: #f0f0f0;
+  --fk-white: #ffffff;
+  --fk-yellow: #ff9f00;
+  --fk-orange: #fb641b;
+}
+
+body {
+  background-color: var(--fk-bg) !important;
+  font-family: 'Roboto', Arial, sans-serif !important;
+  color: var(--fk-text);
+  margin: 0;
+  padding: 0;
+}
+
+/* Remove default Bootstrap light background from main container if necessary */
+.bg-light {
+    background-color: var(--fk-bg) !important;
+}
+
+a {
+  text-decoration: none;
+}
